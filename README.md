@@ -1,2 +1,2 @@
-# mscz_trackname_editor
-App to change the trackname in a mscz file
+# MuseScore .mscz trackname editor
+
