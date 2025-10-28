@@ -24,7 +24,7 @@
 ### Option 1 — Use the prebuilt executables
 
 #### **Linux**
-Download the native executable mscz_trackname-editor
+Download the native executable mscz-trackname-editor
 Then make it executable and run:
 ```bash
 chmod +x mscz-trackname-editor
@@ -37,7 +37,7 @@ Then double-click to launch. No installation required.
 
 ### Option 2 — Run from source (Linux / Windows)
 
-Download mscz_trackname-editor.py
+Download mscz-trackname-editor.py
 
 Run the GUI:
 ```bash
