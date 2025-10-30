@@ -8,16 +8,15 @@
 
 ## Features 
 
-Features:
 - Modify tracknames in MuseScore .mscz files to
     - Fix concatenation issues by standardizing part names
     - Change track name in the mixer
     - Change track name in MIDI export
 - Automatic backup creation
 - Auto-Numbering: Automatically resolve duplicate part names
+- Light/Dark theme, with color options
 
--Safe Operations: Automatic backups protect your original files
-
+---
 
 ## Usage
 
