@@ -15,6 +15,7 @@
 - Automatic backup creation
 - Auto-Numbering: Automatically resolve duplicate part names
 - Light/Dark theme, with color options
+- Drag/drop support
 
 ---
 
@@ -34,7 +35,9 @@ chmod +x mscz-trackname-editor
 Download: mscz-trackname-editor.exe
 Then double-click to launch. No installation required.
 
-### Option 2 — Run from source (Linux / Windows)
+I have no access to a Mac, sorry
+
+### Option 2 — Run from source (Linux / Windows / Mac)
 
 Download mscz-trackname-editor.py
 
