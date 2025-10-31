@@ -1,0 +1,7 @@
+mscz-trackname-editor changelog
+
+v1.1 20251031  -drag/drop support - should work on all OS
+               -light/dark theme
+               -fixed unvisible buttons in edit screen
+               -fixed zip compression level
+v1.0 20251028  Initial version
