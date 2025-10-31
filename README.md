@@ -35,7 +35,7 @@ chmod +x mscz-trackname-editor
 Download: mscz-trackname-editor.exe
 Then double-click to launch. No installation required.
 
-I have no access to a Mac, sorry
+I do not have access to a Mac, sorry
 
 ### Option 2 — Run from source (Linux / Windows / Mac)
 
