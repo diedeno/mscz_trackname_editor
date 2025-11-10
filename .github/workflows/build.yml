@@ -21,7 +21,7 @@ jobs:
         pip install pyinstaller
     - name: Build with PyInstaller
       run: |
-        pyinstaller --onefile --noconsole --add-data "customtkinter;customtkinter" --add-data "darkdetect;darkdetect" --add-data "tkinterdnd2;tkinterdnd2" mscz-trackname-editor.py
+        pyinstaller --onefile --noconsole --add-data "customtkinter:customtkinter" --add-data "darkdetect:darkdetect" --add-data "tkinterdnd2:tkinterdnd2" mscz-trackname-editor.py
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
       with:
@@ -65,7 +65,7 @@ jobs:
         
     - name: Build with PyInstaller
       run: |
-        pyinstaller --onefile --noconsole --add-data "customtkinter;customtkinter" --add-data "darkdetect;darkdetect" --add-data "tkinterdnd2;tkinterdnd2" mscz-trackname-editor.py
+        pyinstaller --onefile --noconsole --add-data "customtkinter:customtkinter" --add-data "darkdetect:darkdetect" --add-data "tkinterdnd2:tkinterdnd2" mscz-trackname-editor.py
     - name: Upload artifacts
       uses: actions/upload-artifact@v4
       with:
