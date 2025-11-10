@@ -444,8 +444,8 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
             ctk.set_default_color_theme(choice)
             # Recreate UI with new theme
             self.create_ui()
-            messagebox.showinfo("Theme Changed", 
-                               f"Color theme changed to {choice}.")
+            #messagebox.showinfo("Theme Changed", 
+            #                   f"Color theme changed to {choice}.")
 
     def change_appearance_mode(self, choice):
         """Change appearance mode (light/dark)"""
