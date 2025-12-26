@@ -49,29 +49,6 @@ LICENSE = "GPLv3"
 AUTHOR = "Diego Denolf (graffesmusic)"
 
 
-import zipfile
-import xml.etree.ElementTree as ET
-import tempfile
-import os
-import shutil
-import customtkinter as ctk
-from tkinter import messagebox
-import tkinter as tk  
-import threading
-
-# Try to import tkinterdnd2 for better Windows drag/drop
-try:
-    from tkinterdnd2 import DND_FILES, TkinterDnD
-    TKINTERDND2_AVAILABLE = True
-except ImportError:
-    TKINTERDND2_AVAILABLE = False
-
-# Application Info
-VERSION = "1.1"
-LAST_MODIFIED = "2025-10-31"
-LICENSE = "GPLv3"
-AUTHOR = "Diego Denolf (graffesmusic)"
-
 class PartNameEditor:
     def __init__(self, root):
         self.root = root  # Use the provided root window
