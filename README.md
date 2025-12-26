@@ -40,7 +40,7 @@ I do not have access to a Mac, sorry
 
 ### Option 2 — Run from source (Linux / Windows / Mac)
 
-Download mscz-trackname-editor.py
+Download source code (.zip or .tar.gz) and unzip. (keep everything in same folder)
 
 Run the GUI:
 ```bash
